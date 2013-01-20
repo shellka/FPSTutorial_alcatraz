@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\GlobalVars.cs" />
+     <Compile Include="Assets\Scripts\Minimap.cs" />
      <Compile Include="Assets\Scripts\PlayerMouseController.cs" />
      <Compile Include="Assets\Scripts\TowersUI.cs" />
      <Compile Include="Assets\Scripts\ai\MobAI.cs" />
